@@ -1,0 +1,18 @@
+{
+  "name": "highlight-html-content",
+  "version": "1.0.0",
+  "description": "Highlight HTML Content - A JavaScript function to efficiently highlight specific words in HTML content using the <mark> tag.",
+  "main": "highlightHTMLContent.js",
+  "repository": "https://github.com/1871vinayak/SteelEye-Assignment-Question-2",
+  "author": "Vinayak Sharma",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.6.2",
+    "jsdom": "^22.1.0",
+    "jsdom-global": "^3.0.2"
+  }
+}
